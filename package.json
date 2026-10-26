@@ -1,0 +1,17 @@
+{
+  "name": "health-careers-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kid-friendly educational site introducing K-12 students to health professions.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
